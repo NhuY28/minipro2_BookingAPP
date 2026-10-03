@@ -15,9 +15,10 @@
 MSSV: **23IT326** 
 Vai trò: **Phát triển giao diện, kiến trúc ứng dụng và tích hợp Firebase** 
 
-### Các đường dẫn
+### Các đường dẫn 
 
-* **💻 Expo: <img width="195" height="235" alt="image" src="https://github.com/user-attachments/assets/a86808ac-56cc-4182-aea3-8cf85be1fbe1" />
+* **🔗 Demo ứng dụng::
+* <img width="195" height="235" alt="image" src="https://github.com/user-attachments/assets/a86808ac-56cc-4182-aea3-8cf85be1fbe1" />
 * **💻 GitHub Repository:** https://github.com/NhuY28/minipro2_BookingAPP
 * **🎥 Video Demo:** https://drive.google.com/file/d/1SRfQlgOrQPGma2t3j_-ZatbfRecrktWF/view?pli=1 
 
