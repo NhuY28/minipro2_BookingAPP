@@ -1,4 +1,4 @@
-# BÁO CÁO KỸ THUẬT NGẮN – MINI-PROJECT
+<img width="195" height="235" alt="image" src="https://github.com/user-attachments/assets/a86808ac-56cc-4182-aea3-8cf85be1fbe1" /># BÁO CÁO KỸ THUẬT NGẮN – MINI-PROJECT
 
 **Môn học:** Phát triển ứng dụng di động đa nền tảng (Cross-Platform Mobile App Development – VKU)
 **Tên Mini-Project:** Mini-Project 2 – Study Room Booking App
@@ -18,9 +18,9 @@ Vai trò: **Phát triển giao diện, kiến trúc ứng dụng và tích hợp
 
 ### Các đường dẫn
 
-* **🔗 Demo ứng dụng:** [Thêm link Expo / APK nếu có]
-* **💻 GitHub Repository:** [Thêm link GitHub của dự án]
-* **🎥 Video Demo:** [Thêm link YouTube nếu có]
+     
+* **💻 GitHub Repository:** https://github.com/NhuY28/minipro2_BookingAPP
+* **🎥 Video Demo:** https://drive.google.com/file/d/1SRfQlgOrQPGma2t3j_-ZatbfRecrktWF/view?pli=1 
 
 ### Mô tả dự án
 
